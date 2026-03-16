@@ -7,6 +7,9 @@
 
 }
 
+a{
+    font-style: none;
+}
 nav{
 background-color: #2D3F4F;
 padding-top: 1rem;
