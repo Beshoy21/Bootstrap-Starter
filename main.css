@@ -38,6 +38,7 @@ nav .navbar-nav ul li{
     margin-left: 12px;
     margin-right: 12px;
     margin-top: 0.3rem;
+    text-decoration: none !important;
 }
 
 nav .navbar-nav ul li a{
