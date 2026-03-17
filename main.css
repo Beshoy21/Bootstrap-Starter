@@ -27,7 +27,7 @@ nav .brand a{
     font-size: 1.5rem;
     font-weight: bold;
     letter-spacing: 0.1rem;
-   text-decoration: none;
+   text-decoration: none !important;
     
 }
 
@@ -42,7 +42,7 @@ nav .navbar-nav ul li{
 
 nav .navbar-nav ul li a{
 font-size: 1rem;
-
+text-decoration: none !important;
 }
 
 nav .brand a:hover{
